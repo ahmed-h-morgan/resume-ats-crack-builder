@@ -34,7 +34,7 @@ but [Important] to keep the order of the sections in the same order as the origi
 
 ## Installation
 - Clone the repository
-- Run `docker-compose up --build` to build the images and run the containers
+- Run `docker compose up --build` to build the images and run the containers
 - Open your browser and go to `http://127.0.0.1:8861`
 - Create an Account , You Will Have Example CV to start with
 
